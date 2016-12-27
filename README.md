@@ -1,4 +1,5 @@
 # CSCO
+######Made by Zool, uploaded with permission on his behalf
 It feels like 1.6 but will NEVER be like 1.6
 
 That's a fact, and I'm not hiding it or selling dreams to you guys, the mod will NEVER be EXACTLY like 1.6 and even if at first I wanted to bring back ALL aspects of 1.6, I'm starting to change my mind on that because of the limitations, the fact that people would get bored since it'll just be a remastered 1.6, and of course all the problems 1.6 had related to balancing issues, bugs, etc...
