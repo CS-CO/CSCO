@@ -1,4 +1,4 @@
-# CSCO
+# CSCO v1.1b
 ######Made by Zool, uploaded with permission on his behalf
 It feels like 1.6 but will NEVER be like 1.6
 
